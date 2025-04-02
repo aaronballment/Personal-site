@@ -11,3 +11,7 @@
     border-radius: 5px;
     text-decoration: none;
 }
+.btn_social:hover{
+    background-color: #fff;
+    color: lightseagreen;
+}
